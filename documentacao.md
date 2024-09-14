@@ -142,8 +142,8 @@ Comando utilizado:
 
 **_flask-docker-leontino_**: Nome da imagem a ser executada.
 
-## **_Screenshot :_**
+## **_Captura de tela :_**
 
-**_![][imagem]_**
+**Aplicação rodando como prova de execução**
 
 ![Minha Imagem](localhost8080.png)
